@@ -1,0 +1,12 @@
+Cleaned up
+Added dynamic method constructors
+
+TODO
+----
+
+Avoid polluting Core objects
+
+Use object.extend
+
+Fx
+hash_options.extend(Tracing::Filter::Factory) 
